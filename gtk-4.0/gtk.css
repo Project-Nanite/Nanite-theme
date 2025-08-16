@@ -14,25 +14,25 @@
 @define-color error_color #ff0040;
 @define-color success_color #00ff80;
 
-/* AI ACCENT COLORS - DISTINCT, NO BLENDING */
-@define-color primary_cyan #00ccff;
-@define-color primary_blue #0066ff;
-@define-color electric_green #00ff80;
-@define-color neon_orange #ff9500;
-@define-color cyber_red #ff0040;
-@define-color tech_purple #8000ff;
-@define-color matrix_green #00ff00;
+/* AI ACCENT COLORS - SOFTER FOR EYE COMFORT */
+@define-color primary_cyan #4a9eff;
+@define-color primary_blue #3d7bff;
+@define-color electric_green #4dff8a;
+@define-color neon_orange #ff9944;
+@define-color cyber_red #ff4466;
+@define-color tech_purple #9966ff;
+@define-color matrix_green #66ff66;
 @define-color dark_bg #111319;
 @define-color darker_bg #0d1117;
 @define-color light_bg #1a1f2e;
-@define-color border_cyan #00ccff;
-@define-color border_blue #0066ff;
+@define-color border_cyan #4a9eff;
+@define-color border_blue #3d7bff;
 
-/* AI SHADOWS AND EFFECTS */
-@define-color glow_cyan rgba(0, 204, 255, 0.3);
-@define-color glow_blue rgba(0, 102, 255, 0.3);
-@define-color glow_green rgba(0, 255, 128, 0.3);
-@define-color shadow_dark rgba(0, 0, 0, 0.8);
+/* AI SHADOWS AND EFFECTS - SOFTER GLOW */
+@define-color glow_cyan rgba(74, 158, 255, 0.15);
+@define-color glow_blue rgba(61, 123, 255, 0.15);
+@define-color glow_green rgba(77, 255, 138, 0.15);
+@define-color shadow_dark rgba(0, 0, 0, 0.6);
 
 /* BASE STYLING - SHARP, NO ROUNDED CORNERS */
 * {

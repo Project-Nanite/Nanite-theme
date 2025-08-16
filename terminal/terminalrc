@@ -20,7 +20,7 @@ FontUseCustomColors=true
 ColorPalette=#111319;#ff0040;#00ff80;#ff9500;#00ccff;#8000ff;#00ff00;#ffffff;#666666;#ff0040;#00ff80;#ff9500;#00ccff;#8000ff;#00ff00;#ffffff
 
 # Background and foreground - AI colors
-ColorForeground=#00ccff
+ColorForeground=#4a9eff
 ColorBackground=#111319
 ColorBackgroundIntense=#0d1117
 ColorBackgroundFaint=#1a1f2e
@@ -29,12 +29,12 @@ ColorBackgroundFaint=#1a1f2e
 CursorBlinkMode=1
 CursorBlink=300
 CursorShape=0
-CursorColor=#00ccff
-CursorColorFaint=#0066ff
+CursorColor=#4a9eff
+CursorColorFaint=#3d7bff
 
 # Selection colors - AI selection
-ColorSelection=#00ccff
-ColorSelectionFaint=#0066ff
+ColorSelection=#4a9eff
+ColorSelectionFaint=#3d7bff
 
 # Tab settings - AI tabs
 TabActivityColor=#ff0040
@@ -122,10 +122,10 @@ BackgroundTransparency=0
 BackgroundTransparencyFaint=0
 BackgroundTransparencyIntense=0
 
-# Border settings - AI borders
-BorderWidth=2
-BorderColor=#00ccff
-BorderColorFaint=#0066ff
+# Border settings - Softer AI borders
+BorderWidth=1
+BorderColor=#4a9eff
+BorderColorFaint=#3d7bff
 
 # Margin settings - AI spacing
 MarginTop=2

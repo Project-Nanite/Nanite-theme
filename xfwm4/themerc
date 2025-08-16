@@ -3,22 +3,22 @@
 
 # Window title styling - AI terminal font
 title.font: JetBrains Mono Bold 9
-title.color: #00ccff
-title.color.active: #00ccff
-title.color.inactive: #0066ff
+title.color: #4a9eff
+title.color.active: #4a9eff
+title.color.inactive: #3d7bff
 
-# Window borders - Sharp AI style
-border.width: 2
-border.color: #00ccff
-border.color.active: #00ccff
-border.color.inactive: #0066ff
+# Window borders - Softer AI style
+border.width: 1
+border.color: #4a9eff
+border.color.active: #4a9eff
+border.color.inactive: #3d7bff
 
-# Window shadows - AI glow effects
+# Window shadows - Softer AI glow effects
 shadow.enable: true
 shadow.offset.x: 0
 shadow.offset.y: 0
-shadow.color: rgba(0, 204, 255, 0.4)
-shadow.radius: 15
+shadow.color: rgba(74, 158, 255, 0.2)
+shadow.radius: 8
 
 # Button layout (O|HMC - close, minimize, maximize)
 button.layout: O|HMC
